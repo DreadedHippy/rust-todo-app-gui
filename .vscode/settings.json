@@ -1,0 +1,8 @@
+{
+	"cSpell.words": [
+		"serde"
+	],
+	"rust-analyzer.linkedProjects": [
+		".\\Cargo.toml"
+	]
+}
